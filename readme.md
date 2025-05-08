@@ -12,4 +12,5 @@
     2. [Action/Activity](./class/04-10-02%20action_activity.pdf)
     3. [KP 1.3_Talking about different situations](./class/04-10-03%20U-2%20KP%201.3.pdf)
     4. [Notes - Present_Continuous](./notes/04-10-01%20Present.md)
-    5. [Notes - When_if](./notes/04-10-02%20Whenif.mds)
+    5. [Notes - Conditionals When_if](./notes/04-10-02%20Conditionals.md)
+
