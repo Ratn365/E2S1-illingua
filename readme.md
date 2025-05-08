@@ -14,3 +14,10 @@
     4. [Notes - Present_Continuous](./notes/04-10-01%20Present.md)
     5. [Notes - Conditionals When_if](./notes/04-10-02%20Conditionals.md)
 
+### Week 2 
+- 04-14 What Happens When...
+    1. [Notes - What Happens When](./notes/04-14-01%20what_happens.md)
+    2. [Discuss What Happens](./class/04-14-01%20what_happens.jpg)
+    3. [Discuss What Happens](./class/04-14-02%20what_happens.pdf)
+
+- 04-15 
