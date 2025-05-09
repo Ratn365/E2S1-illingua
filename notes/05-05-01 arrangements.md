@@ -106,3 +106,68 @@ Imagine you’re coordinating a procurement project. Use the structures to commu
 - **WH-Question**: "When will you review the contract before I send it to the legal team?"
 
  
+# 7.2 Describing Arrangements  
+
+#### Concept: Using Present Continuous for Arrangements vs. Present Simple for Timetables
+We’ve already covered Present Continuous for arrangements and Present Simple for timetables, but the document provides a specific example in the form of an email about an intercultural training course. This is relevant to your role when you arrange meetings, site visits, or training sessions for your team.
+
+#### Practical Application in Your Role:
+- **Email Example (Adapted)**: Imagine you’re emailing a colleague about a procurement training session:
+  - "Hi Ravi, I’ve made arrangements for our procurement training. The session starts on Wednesday, May 14, and ends on Friday, May 16. Our flight leaves at 7 a.m. on Wednesday. I am meeting the trainer at the airport at 9 a.m."
+
+#### Practice Exercise (Based on Follow-up 7.2):
+Using the email example above, fill in a table for the procurement training:
+1. Training start date: ____________
+   - Answer: May 14
+2. Training end date: ____________
+   - Answer: May 16
+3. Flight departure time: ____________
+   - Answer: 7 a.m.
+
+#### Examples in Your Context:
+- **Positive (Present Continuous)**: "I am meeting the trainer at 9 a.m. at the airport."
+- **Negative (Present Simple)**: "The training session doesn’t start until Wednesday."
+- **Interrogative (Present Continuous)**: "Are you attending the procurement training next week?"
+- **WH-Question (Present Simple)**: "What time does the flight leave on Wednesday?"
+
+---
+
+### 8. Conversation Cards (From "Let’s Talk About the Future.pdf")
+
+#### Concept: Using "Will" and "Going To" for Predictions and Plans
+The "Let’s Talk About the Future" document includes conversation cards with questions about predictions (using "will") and plans (using "going to"). This can help you practice discussing future trends in procurement, such as price changes or supply chain innovations.
+
+#### Practical Application in Your Role:
+- **Prediction Question**: "Do you think material prices will rise next year?"
+  - Answer: "Yes, I think prices will rise because of inflation."
+- **Plan Question**: "What are you going to do about the rising costs?"
+  - Answer: "I am going to negotiate better terms with our suppliers."
+
+#### Practice Exercise (Adapted for Procurement):
+Answer these questions about your work:
+1. Do you think robots will replace human buyers in procurement in the future? Why/Why not?
+   - Example Answer: "I don’t think robots will fully replace buyers because human judgment is still important for negotiations."
+2. What are you going to do this weekend to prepare for next week’s procurement tasks?
+   - Example Answer: "I am going to review the vendor contracts this weekend."
+
+#### Examples in Your Context:
+- **Positive (Will)**: "I think the new supplier will deliver on time."
+- **Negative (Going To)**: "I am not going to order from that vendor again."
+- **Interrogative (Will)**: "Will the new system improve our procurement process?"
+- **WH-Question (Going To)**: "What are you going to do if the supplier delays again?"
+
+---
+
+### Tips for Hindi Speakers:
+- Hindi often uses a single future tense (e.g., "मैं करूँगा" for both spontaneous and planned actions), but English requires you to choose between "will," "going to," Present Continuous, and Present Simple based on context. Practice identifying the timing of the decision or event.
+- For timetables, think of fixed schedules like train timings in India (e.g., "ट्रेन 5 बजे आती है" translates to "The train arrives at 5 p.m." in Present Simple).
+
+---
+
+### Final Practice Scenario:
+Imagine you’re planning a procurement strategy meeting. Use all structures to create a short conversation:
+- **Timetable (Present Simple)**: "The meeting room opens at 9 a.m. tomorrow."
+- **Arrangement (Present Continuous)**: "I am presenting the CAPEX budget at 10 a.m."
+- **Planned Action (Going To)**: "We are going to discuss new vendors after lunch."
+- **Spontaneous Decision (Will)**: "Oh, I forgot the slides—I’ll print them now."
+

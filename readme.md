@@ -97,4 +97,9 @@
     3. [L17 Structure arrangements](./class/05-05-03%20Lesson%2017_H.W.pdf)
     4. [Notes - Arrangements](./notes/05-05-01%20arrangements.md)
 
-- 05-06 
+- 05-06 Talking Future
+    1. [Discuss Will](./class/05-06-01%20Discuss%20will.jpg)
+    2. [Discuss Going To](./class/05-06-02%20Discuss%20going%20to.jpg)
+    3. [Discuss Future](./class/05-06-03%20Discuss%20future.jpg)
+    4. [KP 7.3_Discussing Plans and Decisions](./class/05-06-04%20U-7%20K.P%207.3.pdf)
+    5. [Notes - Future](./notes/05-06-01%20taking%20future.md)
