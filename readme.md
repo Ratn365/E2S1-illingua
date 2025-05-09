@@ -32,3 +32,14 @@
     2. [Discuss Simple Past](./class/04-16-02%20simple_past.jpg)
     3. [KP - 2.3_Talking about past events](./class/04-16-03%20U-2%20KP%202.3.pdf)
     4. [Notes - Simple_Past](./notes/04-16-01%20SimplePast.md)
+
+- 04-17 Present Perfect Tense
+    1. [Present Perfect](./class/04-17-01%20Present_Perfect.pdf)
+    2. [Discuss Present Perfect](./class/04-17-02%20Present%20Perfect_Partner%20Discussion.pdf)
+    3. [Discuss Present Perfect](./class/04-17-03%20pesresnt%20Perfect%20Discuss.jpg)
+    4. [Speaking Card](./class/04-17-04%20pesresnt%20Perfect%20Speaking%20card.jpg)
+    5. [KP - 3.1_Talking about experiences](./class/04-17-05%20U-3%20K.P.%203.1.pdf)
+    6. [KP - 3.2_Discussing progress toward goals](./class/04-17-06%20U-3%20K.P.%203.2.pdf)
+    7. [Notes - Present_Perfect](./notes/04-17-01%20Present_Perfect.md) 
+
+-04-18 
