@@ -30,5 +30,5 @@
 - 04-16 Simple Past Tense
     1. [Simple Past](./class/04-16-01%20SimplePast.pdf)
     2. [Discuss Simple Past](./class/04-16-02%20simple_past.jpg)
-    3. [Notes - Simple_Past](./notes/04-16-01%20SimplePast.md)
-
+    3. [KP - 2.3_Talking about past events](./class/04-16-03%20U-2%20KP%202.3.pdf)
+    4. [Notes - Simple_Past](./notes/04-16-01%20SimplePast.md)
