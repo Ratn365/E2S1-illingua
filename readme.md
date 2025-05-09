@@ -74,3 +74,10 @@
 - 04-29 Vocab - Travel Procedure
     1. [KP 6.1_Discussing Travel Procedure](./class/04-29-01%20U-6%20K.P%206.1.pdf)
     2. [Notes - Vocab Travel](./notes/04-29-01%20Vocab-Travel.md)
+
+- 04-30 Vocab - Frequencies
+    1. [KP 6.2_Discussing Frequencies](./class/04-30-01%20U-6%20K.P%206.2.pdf)
+    2. [Quest Frequency](./class/04-30-02%20frequencies.jpg)
+    3. [L14 Frequency](./class/04-30-03%20Lesson%2014_H.W.pdf)
+    4. [L16 Frequency WB](./class/04-30-04%20Lesson%2016_H.W.pdf)
+    5. [Notes - Vocab Frequency](./notes/04-30-01%20Vocab-Frequencies.md)
