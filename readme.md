@@ -42,4 +42,10 @@
     6. [KP - 3.2_Discussing progress toward goals](./class/04-17-06%20U-3%20K.P.%203.2.pdf)
     7. [Notes - Present_Perfect](./notes/04-17-01%20Present_Perfect.md) 
 
--04-18 
+### Week 3
+- 04-21 Situational Vocab
+    1. [Discuss All Tense](./class/04-21-01%20Discuss%20using_all%20tenses.jpg)
+    2. [Activity UsedFor SoThat](./class/04-21-02%20used_for_so_that.jpg)
+    3. [KP - 3.3_Talking about competition](./class/04-21-03%20U-3%20K.P.%203.3.pdf)
+    4. [Notes - Situational_Vocab](./notes/04-21-01%20Vocab-Situational.md)
+    
