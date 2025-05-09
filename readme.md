@@ -109,3 +109,9 @@
     2. [KP 8.2_Describing the weather](./class/05-07-02%20U-8%20K.P%208.2.pdf)
     3. [Notes Predictions](./notes/05-07-01%20Predictions.md)
     
+- 05-08 Purchasing
+    1. [KP 9.1_Talking about purchasing](./class/05-08-01%20U-9%20K.P%209.1.pdf)
+    2. [KP 9.2_Talking about purchasing](./class/05-08-02%20U-9%20K.P%209.2.pdf)
+    3. [KP 9.3_Making comparisons](./class/05-08-03%20U-9%20K.P%209.3.pdf)
+    4. [Notes Purchasing](./notes/05-08-01%20Purchasing.md)
+    
