@@ -1,335 +1,322 @@
-# 4.3: Talking about Memories
- 
+# Describing ongoing actions interrupted by another event
+
 ---
 
 ### Overview of the Lesson
-The documents focus on **talking about memories**, specifically using the **past continuous tense** (was/were + verb-ing) to describe ongoing actions in the past, often interrupted by another event (in the past simple). They also introduce the concept of **flashbulb memories**—vivid recollections of significant events. The materials include:
-
-- **Structures**: Using "when" and "while" with past continuous and past simple (e.g., "I was driving when I heard the news").
-- **Reading**: An article on flashbulb memories and their characteristics.
-- **Visual Exercise (K.P. 4.3)**: A scene of an accident with characters, followed by a sentence completion task.
-- **Grammar Practice Sheet**: A past continuous exercise about Jake and his father’s activities last Saturday.
-- **Practice Exercises**: Listening to a memory of JFK’s assassination, completing sentences, and analyzing a news story about a pilot’s crash.
+The documents focus on grammar structures for discussing past and recent events:
+- **Lesson 11 H.W.pdf** (Date: 24.04.2025):
+  - **Past Continuous and Past Simple**: Describing ongoing actions interrupted by another event (e.g., "They were relaxing when the baby started crying").
+  - **Fill-in-the-Blanks (Past Continuous)**: A story about Ann on a rainy day.
+  - **Simple Past Tenses (Archie’s Birthday Gift)**: A narrative about buying a gift, with true/false questions.
+- **Lesson 12 H.W.pdf** (Date: 28.04.2025):
+  - **Past Continuous Exercise**: "What actions were happening when…?" (incomplete details provided).
+- **Grammar Worksheet (Present Perfect)**:
+  - Practice using present perfect tense (e.g., "I have eaten") with positive, negative, and question forms.
 
 This lesson will:
-1. Explain the past continuous tense, the use of "when" and "while," and related vocabulary (e.g., flashbulb memory).
+1. Explain the grammar structures (past continuous, past simple, present perfect), their meanings, and usage.
 2. Provide sentence examples (positive, negative, interrogative, WH-questions) for each structure.
 3. Describe situations where these structures are used, especially in procurement and everyday contexts.
-4. Use the document’s exercises and visual content to reinforce learning.
+4. Use the document’s exercises to reinforce learning.
 5. Offer tips for improving your English speaking skills as an intermediate learner.
 
 ---
 
-### 1. Structures and Usage
+### 1. Grammar Structures and Usage
 
-The document focuses on the **past continuous tense** (was/were + verb-ing) to describe ongoing actions in the past, often interrupted by another event in the **past simple** (e.g., "I heard"). The conjunctions "when" and "while" connect these actions. I’ll explain the structure, its meaning, pronunciation (simplified for Hindi speakers), and usage. For each, I’ll provide:
+The documents cover three key grammar structures: **past continuous**, **past simple**, and **present perfect**. I’ll explain each, its meaning, pronunciation (simplified for Hindi speakers), and usage. For each, I’ll provide:
 - **Positive**, **negative**, **interrogative**, and **WH-question** sentences.
 - **Situations**: Professional (procurement) and everyday contexts.
 - **Tips for Hindi Speakers**: Relate to Hindi equivalents for clarity.
 
-#### A. Past Continuous with "When" and "While"
+#### A. Past Continuous and Past Simple (Lesson 11 H.W.pdf)
 - **Structure**: 
-  - **I was [verb-ing] when [past simple event happened]** (e.g., "I was driving when I heard the news").
-  - **When [past simple event happened], I was [verb-ing]** (e.g., "When I heard the news, I was driving").
-  - **While I was [verb-ing], [past simple event happened]** (e.g., "While I was driving, I heard the news").
+  - **Past Continuous**: Was/were + verb-ing (e.g., "I was working").
+  - **Past Simple**: Verb + -ed or irregular form (e.g., "The phone rang").
+  - Combined: "I was [verb-ing] when [past simple event happened]" (e.g., "I was working when the phone rang").
 - **Meaning**: Describes an ongoing action in the past (past continuous) interrupted by a shorter, completed action (past simple).
 - **Pronunciation**:
-  - "When": /WEN/ (short and simple).
-  - "While": /WILE/ (rhymes with "smile").
-  - Past continuous: Stress the verb, e.g., "I was DRIV-ing" (/I wuz DRIV-ing/).
-- **Usage**: Used to set the scene for a memory or event, often with "when" or "while" to show the interruption.
-- **Hindi Equivalent**: Similar to using "jab" (जब) or "jabki" (जबकि) with ongoing actions, e.g., "Main gadi chala raha tha jab mujhe khabar sunai di" (मैं गाड़ी चला रहा था जब मुझे खबर सुनाई दी).
+  - Past continuous: Stress the verb, e.g., "I was WORK-ing" (/I wuz WORK-ing/).
+  - Past simple: Regular verbs end in /d/, /t/, or /id/, e.g., "rained" (/RAYND/).
+- **Usage**: Used to set the scene for a past event, often with "when" to show the interruption.
+- **Hindi Equivalent**: Similar to using "jab" (जब) with ongoing actions, e.g., "Main kaam kar raha tha jab phone baja" (मैं काम कर रहा था जब फोन बजा).
 
 **Examples**:
-1. **Positive**: I was negotiating with a supplier when the client called me.
-2. **Negative**: We weren’t discussing the contract when the manager arrived.
-3. **Interrogative**: Were you working on the tender when the power went off?
+1. **Positive**: I was emailing a supplier when the manager called me.
+2. **Negative**: We weren’t discussing the contract when the client arrived.
+3. **Interrogative**: Were you negotiating with the vendor when the power went off?
 4. **WH-Question**: What were you doing when the shipment arrived?
 
 **Situations**:
-- **Professional (Procurement)**: Describing interruptions during work. E.g., "I was reviewing a proposal when the supplier emailed me."
+- **Professional (Procurement)**: Describing interruptions during work. E.g., "I was reviewing a quote when the supplier emailed me."
 - **Everyday**: Recalling past events. E.g., "I was watching cricket when my friend called."
-- **Tip**: Use "when" for the interrupting event, "while" for the ongoing action. In Hindi, think of "jab" for "when" and "jabki" for "while."
+- **Tip**: Use past continuous for the ongoing action and past simple for the interruption. In Hindi, think of "jab" for "when."
 
-#### B. Vocabulary: Flashbulb Memory
-- **Meaning**: A vivid, detailed memory of what someone was doing when they heard significant news, often lasting for years.
-- **Pronunciation**: /FLASH-buhlb MEM-uh-ree/ (stress on "FLASH" and "MEM").
-- **Part of Speech**: Noun.
-- **Usage**: Used in discussions about memorable events, often tied to major news (e.g., disasters, assassinations).
-- **Hindi Equivalent**: Can be thought of as "yaadgaar pal" (यादगार पल) or a memory that "flashes" vividly.
+---
+# Discuss what they were doing.
+#### B. Past Simple (Archie’s Birthday Gift)
+- **Structure**: Verb + -ed or irregular form (e.g., "He bought a gift").
+- **Meaning**: Describes completed actions in the past with no current relevance.
+- **Pronunciation**: Regular verbs: /d/ (e.g., "agreed" /uh-GREED/), /t/ (e.g., "asked" /ASKT/), /id/ (e.g., "wanted" /WANT-id/).
+- **Usage**: Used for narratives or sequences of past events.
+- **Hindi Equivalent**: Simple past, e.g., "Maine kharida" (मैंने खरीदा) for a specific time.
 
 **Examples**:
-1. **Positive**: I have a flashbulb memory of where I was when India won the World Cup.
-2. **Negative**: I don’t have a flashbulb memory of that event because I was too young.
-3. **Interrogative**: Do you have a flashbulb memory of a major news story?
-4. **WH-Question**: What flashbulb memory do you have from your childhood?
+1. **Positive**: I bought a gift for my colleague last week.
+2. **Negative**: I didn’t visit the supplier yesterday.
+3. **Interrogative**: Did you pay for the order in cash?
+4. **WH-Question**: What did you buy for the project last month?
 
 **Situations**:
-- **Professional (Procurement)**: Discussing significant industry events. E.g., "I have a flashbulb memory of when the new trade policy was announced."
-- **Everyday**: Sharing personal memories. E.g., "My flashbulb memory is from when I heard about a family event."
-- **Tip**: Use this term to describe vivid, emotional memories tied to big news.
+- **Professional (Procurement)**: Narrating past actions. E.g., "I ordered the materials last week."
+- **Everyday**: Sharing past experiences. E.g., "I went to the market yesterday."
+- **Tip**: Use past simple for specific, completed actions in the past.
+
+#### C. Present Perfect (Grammar Worksheet)
+- **Structure**: 
+  - Positive: Have/has + past participle (e.g., "I have eaten").
+  - Negative: Haven’t/hasn’t + past participle (e.g., "I haven’t eaten").
+  - Question: Have/has + subject + past participle? (e.g., "Have you eaten?").
+- **Meaning**: Describes actions that happened at an unspecified time in the past with relevance to the present.
+- **Pronunciation**:
+  - "Have": /HAV/ (short and simple).
+  - "Has": /HAZ/ (stress on the "z" sound).
+  - Contractions: "Haven’t" (/HAV-uhnt/), "Hasn’t" (/HAZ-uhnt/).
+- **Usage**: Used to talk about experiences, recent actions, or unfinished states.
+- **Hindi Equivalent**: Often translated as completed actions with current impact, e.g., "Maine kha liya hai" (मैंने खा लिया है).
+
+**Examples**:
+1. **Positive**: I have just finished a supplier meeting.
+2. **Negative**: We haven’t received the shipment yet.
+3. **Interrogative**: Have you ordered the materials?
+4. **WH-Question**: What have you done to improve costs recently?
+
+**Situations**:
+- **Professional (Procurement)**: Reporting recent actions. E.g., "I have just negotiated a better price."
+- **Everyday**: Sharing experiences. E.g., "I have lost my phone!"
+- **Tip**: Use present perfect for actions without a specific time or with ongoing relevance.
 
 ---
 
 ### 2. Situational Usage and Practical Applications
 
-As a procurement manager, you often recall past events (e.g., meetings, supplier interactions) or discuss interruptions during work, where the past continuous is useful. Below, I’ll explain how to use these structures in professional and everyday contexts, tailored to your role and intermediate level.
+As a procurement manager, you often discuss past events (e.g., supplier interactions) and recent actions (e.g., contract updates), where these grammar structures are highly relevant. Below, I’ll explain how to use them in professional and everyday contexts, tailored to your role and intermediate level.
 
 #### Professional Contexts (Procurement)
-- **Meetings and Updates**: Use past continuous to describe what you were doing when an event occurred.
-  - Example: "I was analyzing a vendor’s quote when the client called with urgent changes."
-- **Supply Chain Incidents**: Describe ongoing actions interrupted by issues.
-  - Example: "We were inspecting the warehouse when the delivery truck arrived late."
-- **Flashbulb Memories**: Share vivid memories of significant work events.
-  - Example: "I have a flashbulb memory of when our company won a major contract—I was negotiating with a supplier."
-- **Daily Operations**: Explain interruptions during tasks.
-  - Example: "While I was preparing a report, the supplier emailed about a delay."
+- **Past Continuous and Past Simple**: Describe interruptions during work.
+  - Example: "I was reviewing a contract when the supplier called with a delay."
+- **Past Simple**: Narrate completed procurement actions.
+  - Example: "Last week, I ordered new materials for the project."
+- **Present Perfect**: Report recent actions with ongoing relevance.
+  - Example: "I have just finalized a deal with a new vendor."
+- **Daily Operations**: Combine structures for clarity.
+  - Example: "While I was negotiating yesterday, the client called, and I haven’t responded yet."
 
 **Tips for Professional Use**:
-- Use "when" to highlight interruptions: "I was on a call when the system crashed."
-- Use "while" for multitasking: "While I was reviewing contracts, I was also checking emails."
-- Practice explaining work memories: "I was working on a tender when I heard about the new policy."
+- Use past continuous for ongoing tasks: "I was checking inventory when…"
+- Use past simple for completed actions: "I signed the contract last month."
+- Use present perfect for updates: "I have just received the shipment confirmation."
 
 #### Everyday Contexts
-- **Memories of Events**: Use past continuous to recall what you were doing during significant moments.
-  - Example: "I was cooking dinner when I heard India won the cricket match."
-- **Daily Activities**: Describe interruptions in routine.
-  - Example: "While I was walking in the park, it started raining."
-- **Flashbulb Memories**: Share vivid personal memories.
-  - Example: "I have a flashbulb memory of where I was when I heard about a family wedding."
-- **Storytelling**: Use "when" and "while" to make stories engaging.
-  - Example: "When the phone rang, I was watching TV."
+- **Past Continuous and Past Simple**: Recall daily interruptions.
+  - Example: "I was cooking dinner when the phone rang."
+- **Past Simple**: Share past experiences.
+  - Example: "I bought a new phone last weekend."
+- **Present Perfect**: Talk about recent events or experiences.
+  - Example: "I have just finished cooking dinner."
+- **Storytelling**: Use all structures to make stories engaging.
+  - Example: "I was walking to the market when I met a friend, and I haven’t seen him since last year."
 
 **Tips for Everyday Use**:
-- Practice with familiar events like cricket matches: "I was cheering when India scored a goal."
-- Use "while" for longer actions: "While I was shopping, I met a friend."
-- Share memories to build confidence: "I was at home when I heard the news."
+- Practice with familiar events: "I was watching cricket when India scored."
+- Use past simple for sequences: "I went to the shop and bought groceries."
+- Use present perfect for recent updates: "I have just seen the news!"
 
 ---
 
-### 3. Practice Exercises (From the Document)
+### 3. Practice Exercises (From the Documents)
 
-The document includes several exercises to reinforce the past continuous tense and the concept of flashbulb memories. I’ll explain each, provide answers, and show how to use the structures in sentences, tailored to your needs.
+The documents include several exercises to reinforce the grammar structures. I’ll explain each, provide answers, and show how to use the structures in sentences, tailored to your needs.
 
-#### K.P. 4.3 Visual Exercise (Accident Scene)
-**Task**: Look at the scene of an accident and complete the sentence: "When the accident happened, Joy was eating an ice cream." Then, describe what others were doing.
+#### Lesson 11 H.W.pdf: Speak Skills (What Were They Doing?)
+**Task**: Look at pictures (not provided) and make sentences using past continuous and past simple (e.g., "They were relaxing in the living room when the baby started crying").
 
-**Scene Description**:
-- Two cars (red and yellow) have crashed in the street.
-- Characters:
-  - Joy (eating an ice cream).
-  - Arthur (painting the bookshop window).
-  - Sally (holding an umbrella, walking).
-  - Terry and Sue (running across the street).
-  - Peter (riding a bicycle).
-  - Steve and Amanda (talking on the sidewalk).
-  - Maggie (carrying grocery bags).
-  - Dan (walking).
-
-**Completed Sentences**:
-1. When the accident happened, Joy was eating an ice cream.
-2. When the accident happened, Arthur was painting the bookshop window.
-3. When the accident happened, Sally was walking with an umbrella.
-4. When the accident happened, Terry and Sue were running across the street.
-5. When the accident happened, Peter was riding a bicycle.
-6. When the accident happened, Steve and Amanda were talking on the sidewalk.
-7. When the accident happened, Maggie was carrying grocery bags.
-8. When the accident happened, Dan was walking.
+**Example Sentences** (Assuming typical scenarios):
+1. The team was discussing a project when the manager walked in.
+2. I was writing an email when the system crashed.
+3. They were packing the shipment when the truck arrived.
+4. She was reading a book when the rain started.
+5. We were eating lunch when the phone rang.
 
 **How to Use These in Sentences**:
-- **Positive**: "I was writing a report when the supplier called."
-- **Negative**: "I wasn’t driving when the accident happened."
-- **Interrogative**: "Were you talking to the vendor when the issue occurred?"
-- **WH-Question**: "What were you doing when the accident happened?"
+- **Positive**: "I was preparing a report when the client called."
+- **Negative**: "We weren’t working when the power went out."
+- **Interrogative**: "Were you writing when the meeting started?"
+- **WH-Question**: "What were you doing when the delivery arrived?"
 
 **Situational Application**:
-- **Procurement**: Describe workplace interruptions. E.g., "I was checking inventory when the delivery arrived."
-- **Everyday**: Recall daily events. E.g., "I was walking when I saw an accident."
+- **Procurement**: Describe workplace interruptions. E.g., "I was checking prices when the vendor called."
+- **Everyday**: Recall daily events. E.g., "I was shopping when I met a friend."
 
-#### Grammar Practice Sheet: Past Continuous (Last Saturday)
-**Task**: Look at the schedule of Jake and his father’s activities last Saturday and answer the questions.
-
-**Schedule**:
-- **8:00 a.m.**: Jake was getting up, Jake’s father was washing dishes.
-- **11:15 a.m.**: Jake was playing a guitar, Jake’s father was preparing breakfast.
-- **2:00 p.m.**: Jake was playing computer games, Jake’s father was doing laundry.
-- **5:30 p.m.**: Jake was playing soccer, Jake’s father was washing the car.
-- **7:45 p.m.**: Jake was swimming in a pool, Jake’s father was playing with the dog.
+#### Lesson 11 H.W.pdf: Fill in the Blanks (Ann’s Rainy Day)
+**Task**: Fill in the gaps with the past continuous form of the verbs.
 
 **Answers**:
-1. What was Jake doing at 8:00 a.m.?  
-   Jake was getting up.
-2. What was Jake’s father doing at 5:30 p.m.?  
-   Jake’s father was washing the car.
-3. What was Jake’s father doing at 11:15 a.m.?  
-   Jake’s father was preparing breakfast.
-4. What was Jake doing at 2:00 p.m.?  
-   Jake was playing computer games.
-5. What was Jake’s father doing at 8:00 a.m.?  
-   Jake’s father was washing dishes.
-6. What was Jake doing at 11:15 a.m.?  
-   Jake was playing a guitar.
-7. What was Jake’s father doing at 2:00 p.m.?  
-   Jake’s father was doing laundry.
-8. What was Jake doing at 7:45 p.m.?  
-   Jake was swimming in a pool.
-9. What was Jake doing at 5:30 p.m.?  
-   Jake was playing soccer.
-10. What was Jake’s father doing at 7:45 p.m.?  
-    Jake’s father was playing with the dog.
+1. Yesterday, it **was raining** and **thundering** all day.
+2. Ann **was playing** inside the house.
+3. She **wasn’t playing** outside because it **was raining**.
+4. She **was feeling** tired of being trapped inside the house.
+5. Ann **was trying** to keep busy inside the house.
+6. She **was reading** her book until the electricity went out.
+7. She **was practicing** sewing until lunchtime.
+8. While Ann **was watching** the rain, the phone rang.
+9. Her mother **was calling** to say she **was coming** home.
+10. She **was bringing** a new game.
+11. While they **were having** [fun], the rain stopped!
+12. But Ann **was having** such a good time with her mom!
 
 **How to Use These in Sentences**:
-- **Positive**: "I was preparing a presentation at 9:00 a.m. yesterday."
-- **Negative**: "I wasn’t playing games at 2:00 p.m. last Saturday."
-- **Interrogative**: "Were you washing the car at 5:30 p.m.?"
-- **WH-Question**: "What were you doing at 11:15 a.m.?"
+- **Positive**: "I was working on a tender all morning."
+- **Negative**: "I wasn’t playing games because I was busy."
+- **Interrogative**: "Were you reading when the phone rang?"
+- **WH-Question**: "What were you doing while it was raining?"
 
 **Situational Application**:
-- **Procurement**: Describe your schedule. E.g., "At 10:00 a.m., I was emailing a supplier."
-- **Everyday**: Talk about your day. E.g., "At 7:00 p.m., I was cooking dinner."
+- **Procurement**: Describe your day. E.g., "I was negotiating with a supplier all morning."
+- **Everyday**: Talk about weather events. E.g., "I was staying indoors while it was raining."
 
-#### Practice Exercise 1: Nancy Benn’s Flashbulb Memory (Page 2)
-**Task**: Listen to Nancy Benn recall hearing about JFK’s assassination and determine if it’s a flashbulb memory. Then, complete the extracts.
+#### Lesson 11 H.W.pdf: Simple Past Tenses (Archie’s Birthday Gift)
+**Task**: Read the story and circle True or False.
 
-**Part A**: Is Nancy’s memory a flashbulb memory?  
-- **Characteristics of Flashbulb Memory**: Where you were, what you were doing, who broke the news, how you felt.
-- **Answer**: Yes, it’s a flashbulb memory. Nancy recalls where she was (at the station), what she was doing (going to work), who broke the news (two women), and likely how she felt (implied by the vividness).
+**Story Summary**:
+Archie was shopping for his grandmother Daisy’s 80th birthday gift. He went to Debenhams, asked for help, and chose a pearl earring and necklace set on sale. He paid in cash, got a gift box, and left happy.
 
-**Part B**: Complete the extracts.
-1. "I can remember what I **was doing** when **I found out** about it."
-2. "And I remember, I **found out** while **I was going** to work."
-3. "I **arrived** at the station, and two old women, who **were waiting** for the same train, **were talking** about it."
-4. "They **were sitting** on a bench nearby."
-5. "And I **was standing** next to them, and my back **was** against a wall."
+**Answers**:
+1. Archie was out shopping. **True**
+2. He was out shopping for party clothes. **False** (He was shopping for a gift.)
+3. It was his mother’s birthday. **False** (It was his grandmother’s birthday.)
+4. Archie needed help choosing a present. **True**
+5. Archie found a nice present at Debenhams. **True**
+6. Archie paid in full for the gift. **True**
+7. He used his credit card. **False** (He paid in cash.)
+8. Archie bought a gift box for the pearl set. **False** (The set came in a gift box.)
+9. He was happy with his gift. **True**
 
 **How to Use These in Sentences**:
-- **Positive**: "I was standing at the office when I heard about the new policy."
-- **Negative**: "I wasn’t waiting for a call when the news came."
-- **Interrogative**: "Were you going to work when you heard the news?"
-- **WH-Question**: "What were you doing when you found out about the event?"
+- **Positive**: "I bought a gift for my boss last week."
+- **Negative**: "I didn’t use my credit card to pay."
+- **Interrogative**: "Did you find a nice gift at the store?"
+- **WH-Question**: "What did you buy for your grandmother?"
 
 **Situational Application**:
-- **Procurement**: Share work memories. E.g., "I was drafting a contract when I found out about the price increase."
-- **Everyday**: Recall news events. E.g., "I was eating lunch when I heard about the cricket match."
+- **Procurement**: Narrate purchases. E.g., "I ordered supplies and paid in cash."
+- **Everyday**: Share shopping experiences. E.g., "I went to the shop and bought a necklace."
 
-#### Practice Exercise 2: Sentence Completion (Page 4)
-**Task**: Complete sentences using "when" or "while" with past continuous and past simple.
+#### Grammar Worksheet: Present Perfect
+**Task**: Complete the sentences using "haven’t" or "hasn’t" for negative sentences.
 
 **Answers**:
-1. I saw an eagle **when/while** I was walking in the mountains.
-2. We were waiting at the bus stop **when** the president’s car drove by.
-3. The lights suddenly went off **when/while** we were having dinner.
-4. I was taking a shower **when** the water heater stopped.
-5. I burnt my finger on the oven **when/while** I was cooking dinner.
+1. I’m really hungry because I **haven’t eaten**.
+2. A: **Has** Mary **done** her homework? B: Yes, she **has**.
+3. **Have** we **seen** that movie? I can’t remember.
+4. Oh no! I **have lost** my cell phone!
+5. No, Pat and Sue **haven’t arrived**. They’re not here.
+6. **Has** Mr. Smith **had** breakfast?
+7. I’m nervous. I **haven’t flown** in a plane before!
+8. A: **Has** he **called**? B: No, he **hasn’t**.
+9. **Have** you ever **written** a poem?
+10. I’m not happy. I still **haven’t found** my cell phone.
+11. **Have** you **decided** what food you want to order?
+12. **Has** Sarah **read** the magazine I gave to her?
+13. **Have** you **put** all your toys away?
+14. It **hasn’t rained** for a very long time.
+15. I think I **have forgotten** to buy some bread.
 
 **How to Use These in Sentences**:
-- **Positive**: "I was reading a report when the phone rang."
-- **Negative**: "We weren’t having a meeting when the client arrived."
-- **Interrogative**: "Were you cooking dinner when the lights went off?"
-- **WH-Question**: "What were you doing when the power stopped?"
+- **Positive**: "I have just finished a report."
+- **Negative**: "I haven’t called the supplier yet."
+- **Interrogative**: "Have you ordered the materials?"
+- **WH-Question**: "What have you done today?"
 
 **Situational Application**:
-- **Procurement**: Describe interruptions. E.g., "I was checking emails when the system crashed."
-- **Everyday**: Share daily events. E.g., "I was watching TV when the news came on."
+- **Procurement**: Share updates. E.g., "I haven’t received the invoice yet."
+- **Everyday**: Talk about experiences. E.g., "I have lost my keys!"
 
-#### Practice Exercise 3: Pilot’s Lucky Escape (Page 3)
-**Part A**: Sequence the paragraphs.  
-**Answer**: C → A → D → B  
-- **C**: Introduces the men rowing near Ireland (ongoing action).  
-- **A**: The plane crashes while they are rowing (interrupting event).  
-- **D**: The pilot climbs out, and the men throw a rope (response to crash).  
-- **B**: The helicopter rescues the pilot (final action).
+#### Lesson 12 H.W.pdf: Past Continuous (Incomplete)
+**Task**: "What actions were happening when…?" (Details incomplete, so I’ll provide a general example.)
 
-**Part B**: Select the correct verb forms.  
-**Answers**:
-- **A**: "While the men **were rowing** through the Irish Sea near the coast of Ireland, they **got** the shock of their lives. Suddenly, a small plane **crashed** into the water near their boat."
-- **B**: "It **was returning** from a training exercise when it **received** the emergency call. A few minutes later, the helicopter **picked up** the pilot."
-- **C**: "They **left** the island of Great Britain early on Saturday morning."
-- **D**: "The pilot **climbed** from the cockpit onto one of the wings. The plane **was sinking**, so urgent action was needed before the aircraft **disappeared** underwater. The rowers **threw** a rope to the pilot and quickly **phoned** for help."
-
-**Part C**: True or False.  
-**Answers**:
-1. The men in the boat wanted to row from Britain to Ireland. **False** (They left Britain, but their destination isn’t specified as Ireland).
-2. After the plane crashed, the pilot swam to the rowing boat. **False** (The pilot climbed onto the wing, and the rowers threw a rope).
-3. The rescue helicopter took off after it received the emergency call. **False** (It was already in the air, returning from training).
-4. The helicopter reached the crashed plane quite quickly. **True** (A few minutes later, it was above the plane).
-5. The pilot of the small plane returned to the coast on the helicopter. **True** (The helicopter flew him back to land).
-
-**Part D**: Write full sentences.  
-**Answers**:
-1. The plane crashed while the men were rowing.
-2. When the pilot left the cockpit, the plane was filling with water.
-3. One of the men phoned for help while the others were rowing towards the plane.
-4. When the helicopter crew arrived, the pilot of the plane was standing on the wing.
+**Example**:
+- Question: What actions were happening when the meeting started?
+- Answer: I was preparing my notes, and the team was discussing the agenda.
 
 **How to Use These in Sentences**:
-- **Positive**: "I was calling a supplier when the shipment arrived."
-- **Negative**: "We weren’t rowing when the plane crashed."
-- **Interrogative**: "Were you standing on the wing when the helicopter arrived?"
-- **WH-Question**: "What were the men doing when the plane crashed?"
+- **Positive**: "I was writing an email when the meeting started."
+- **Negative**: "We weren’t talking when the meeting began."
+- **Interrogative**: "Were you working when the meeting started?"
+- **WH-Question**: "What were you doing when the meeting began?"
 
 **Situational Application**:
-- **Procurement**: Describe emergencies. E.g., "I was inspecting the warehouse when a delivery truck broke down."
-- **Everyday**: Share news stories. E.g., "I was driving when I heard about a plane crash."
+- **Procurement**: Describe meeting scenarios. E.g., "I was reviewing a contract when the meeting started."
+- **Everyday**: Recall events. E.g., "I was eating when the guests arrived."
 
 ---
 
 ### 4. Tips for Improving English Speaking (Intermediate Level)
 
-Building on previous lessons, here are tailored tips to improve your fluency, pronunciation, and confidence using the past continuous tense:
+Building on previous lessons, here are tailored tips to improve your fluency, pronunciation, and confidence using these grammar structures:
 
 1. **Practice Structures in Context**:
-   - Make flashcards with "when" and "while" sentences (e.g., "I was [verb-ing] when…").
-   - Use them in sentences about your work. E.g., "I was emailing a supplier when the manager called."
+   - Make flashcards for each tense (past continuous, past simple, present perfect) with Hindi translations (e.g., "I was working" = मैं काम कर रहा था).
+   - Use them in sentences about your work. E.g., "I have just ordered new supplies."
 
 2. **Improve Pronunciation**:
-   - Focus on stress in past continuous: "I was NEG-o-ti-a-ting" (/I wuz ni-GO-shee-ay-ting/).
-   - Practice "when" (/WEN/) and "while" (/WILE/) to sound natural.
+   - Focus on past continuous stress: "I was NEG-o-ti-a-ting" (/I wuz ni-GO-shee-ay-ting/).
+   - Practice present perfect contractions: "Haven’t" (/HAV-uhnt/), "Hasn’t" (/HAZ-uhnt/).
    - Use apps like Elsa Speak for pronunciation practice.
 
 3. **Build Sentence Variety**:
-   - Write one positive, negative, interrogative, and WH-question daily for past continuous.
-   - Example:
-     - Positive: "I was working when the client called."
-     - Negative: "I wasn’t driving when the accident happened."
-     - Interrogative: "Were you talking when the news broke?"
-     - WH-Question: "What were you doing when you heard the news?"
+   - Write one positive, negative, interrogative, and WH-question daily for each structure.
+   - Example for Present Perfect:
+     - Positive: "I have finished my work."
+     - Negative: "I haven’t called the supplier."
+     - Interrogative: "Have you seen the report?"
+     - WH-Question: "What have you done today?"
 
 4. **Use in Professional Scenarios**:
-   - Prepare phrases for meetings: "I was reviewing a contract when the supplier emailed."
-   - Explain interruptions: "While I was on a call, the system crashed."
-   - Use in emails: "I was preparing a report when I received your message."
+   - Prepare phrases for meetings: "I was working on a tender when the client called."
+   - Share updates: "I have just received the shipment confirmation."
+   - Narrate past actions: "Last week, I ordered new materials."
 
 5. **Speak About Familiar Topics**:
    - Discuss past events like cricket matches: "I was cheering when India won."
-   - Practice with friends: "I was cooking when the power went off."
-   - Join online forums to share memories.
+   - Share recent experiences: "I have just watched a movie."
+   - Join online forums to talk about work or hobbies.
 
 6. **Overcome Hesitation**:
-   - Start with short sentences: "I was working when…," "While I was eating…"
-   - Practice common phrases: "I was doing [task] when [event]."
+   - Start with short sentences: "I was working when…," "I have finished."
+   - Practice common phrases: "I haven’t done…," "I bought… yesterday."
    - Focus on communication over perfection.
 
 ---
 
 ### 5. Sample Conversation (Procurement Context)
 
-Here’s a dialogue using the past continuous tense, set in a procurement meeting. Practice reading it aloud to improve fluency.
+Here’s a dialogue using the grammar structures, set in a procurement meeting. Practice reading it aloud to improve fluency.
 
-**You (Procurement Manager)**: Team, let’s discuss yesterday’s events. I **was reviewing** a supplier’s quote **when** the client called with an urgent request.  
-**Colleague**: I **was preparing** a report **while** the shipment arrived late.  
-**You**: **Were you inspecting** the goods **when** the delay happened?  
-**Colleague**: No, I **wasn’t inspecting** them. I **was talking** to the vendor **when** I heard about the delay.  
-**You**: I have a **flashbulb memory** of last year—I **was negotiating** a big contract **when** we won the tender. **What were you doing** at that time?  
-**Colleague**: I **was celebrating** with the team **when** I heard the news!  
+**You (Procurement Manager)**: Team, let’s review last week. I **was negotiating** with a supplier **when** the client called with changes.  
+**Colleague**: I **was preparing** a report, but I **haven’t finished** it yet.  
+**You**: **Have you contacted** the vendor about the delay?  
+**Colleague**: Yes, I **called** them yesterday, but they **haven’t responded**.  
+**You**: **What were you doing** when the shipment arrived?  
+**Colleague**: I **was inspecting** the warehouse, and then I **found** some issues.  
+**You**: Okay, I **have just scheduled** a meeting to discuss this. Let’s resolve it.  
 
 **Practice Tip**: Role-play this with a colleague or record yourself to build confidence.
 
 ---
 
 ### 6. Additional Resources
-- **Audio Practice**: Use the document’s audio link (https://www.inlingua.com/audios, Track 15) to practice listening and repeating.
-- **Storytelling Practice**: Watch English storytelling videos on YouTube and note past continuous usage.
+- **Storytelling Practice**: Watch English storytelling videos on YouTube and note grammar usage.
 - **Apps**: Use Duolingo, BBC Learning English, or SpeakNow for speaking practice.
 - **Professional English**: Read procurement blogs to learn industry phrases.
 - **Speaking Groups**: Join Toastmasters or italki to practice with native speakers.
@@ -337,16 +324,130 @@ Here’s a dialogue using the past continuous tense, set in a procurement meetin
 ---
 
 ### Summary
-- **Structures Learned**: Past continuous with "when" and "while" (e.g., "I was working when the phone rang").
-- **Vocabulary**: Flashbulb memory (vivid memory of significant events).
+- **Structures Learned**: Past continuous ("I was working"), past simple ("I called"), present perfect ("I have finished").
 - **Sentence Types**: Practiced positive, negative, interrogative, and WH-questions.
-- **Situations**: Applied to procurement (work interruptions, memories) and everyday life (daily events, news).
-- **Practice**: Used document exercises and visual content to reinforce learning.
+- **Situations**: Applied to procurement (work updates, narratives) and everyday life (daily events, experiences).
+- **Practice**: Used document exercises to reinforce learning.
 - **Tips**: Focused on pronunciation, sentence variety, and professional application.
 
 **Next Steps**:
-- Practice one past continuous sentence daily with 4 types (positive, negative, interrogative, WH-question).
-- Use these structures in work emails or conversations about past events.
-- Share more documents or specific topics (e.g., procurement phrases) for tailored lessons.
+- Practice one sentence daily for each structure with 4 types (positive, negative, interrogative, WH-question).
+- Use these structures in work emails or conversations about past and recent events.
+- Share more documents or specific topics (e.g., negotiation phrases) for tailored lessons.
 
  
+# Revision - Past Continuous, Simple Past, and Present Perfect
+ 
+
+---
+
+### 1. Past Continuous and Simple Past (One Action Interrupted by Another)
+
+#### Usage:
+- **Past Continuous**: Describes an ongoing action in the past (was/were + verb-ing).
+- **Simple Past**: Describes a completed action that interrupts the ongoing action.
+- **Structure**: Subject + was/were + verb-ing (Past Continuous) + when + Subject + verb-ed (Simple Past).
+- **Situation**: Use this to describe an action in progress that gets interrupted by another event.
+  - Example (from Ex 1): I was sleeping when the bell rang.
+
+#### Ex 1: Complete the Sentences
+1. I **was reading** when my mother **returned** home.
+2. Jane **was watering** the plants when it **started** to rain.
+3. Oliver and Sarah **were walking** to school when the accident **took** place.
+4. The birds **were chirping** when the sun **rose**.
+5. They **were cleaning** their room when their parents **entered**.
+
+#### Examples in Different Forms (Procurement Context):
+**Verb: Work**
+- **Positive**: I was working on a report when the supplier called.
+- **Negative**: I wasn’t working on the budget when the meeting started.
+- **Interrogative**: Were you working on a contract when the manager arrived?
+- **WH-Question**: What were you working on when the client emailed?
+
+**Situation**: Use this to describe interruptions during work tasks, e.g., during a busy procurement day.
+
+---
+
+### 2. Past Continuous (Two Actions Happening Simultaneously)
+
+#### Usage:
+- **Past Continuous**: Describes two actions happening at the same time in the past.
+- **Structure**: Subject + was/were + verb-ing + while + Subject + was/were + verb-ing.
+- **Situation**: Use this to show parallel activities in the past.
+  - Example (from Ex 2): I was doing the laundry while my daughter was doing her homework.
+
+#### Ex 2: Complete the Sentences
+1. I **was cooking** while my husband **was watching** a football match.
+2. The children **were playing** indoors when it **was raining**. (*Note*: "when" here should ideally be "while" for simultaneous actions, as per the exercise’s intent: "The children were playing indoors while it was raining.")
+3. The dog **was barking** when the thief **was robbing** the house. (*Note*: Should be "while" for consistency: "The dog was barking while the thief was robbing the house.")
+4. Mary and Tom **were sleeping** when their mother **was knitting** a sweater. (*Note*: Should be "while".)
+5. The sweeper **was mopping** the floor when the maid **was dusting** the windows. (*Note*: Should be "while".)
+
+#### Examples in Different Forms (Procurement Context):
+**Verb: Review**
+- **Positive**: I was reviewing a contract while my colleague was preparing the budget.
+- **Negative**: I wasn’t reviewing emails while the team was discussing the project.
+- **Interrogative**: Were you reviewing the supplier list while the meeting was happening?
+- **WH-Question**: What were you reviewing while the vendor was calling?
+
+**Situation**: Use this to describe multitasking at work, e.g., managing multiple procurement tasks simultaneously.
+
+---
+
+### 3. Present Perfect (Life Experiences)
+
+#### Usage (from "04-17 PDF series"):
+- **Present Perfect**: Describes experiences or actions with a connection to the present, often without specifying when.
+- **Structure**: Subject + have/has + past participle.
+- **Situation**: Use this to ask about or share life experiences (e.g., with "ever").
+  - Example: Have you ever seen a thriller movie?
+
+#### Revision: Present Perfect (Complete the Sentences)
+1. Have you ever **seen** a thriller movie? – Yes, I **have seen** a thriller movie.
+2. Have you ever **lied** about your age? – No, I **haven’t lied** about my age.
+3. Have you ever **eaten** prawns? – Yes, I **have eaten** prawns.
+4. Have you ever **gone** abroad? – No, I **haven’t gone** abroad.
+5. Have you ever **met** anyone famous? – Yes, I **have met** a famous procurement expert.
+6. Have you ever **tried** Mongolian food? – No, I **haven’t tried** Mongolian food.
+7. Have you ever **drunk** fruit champagne? – Yes, I **have drunk** fruit champagne.
+8. Have you ever **swum** in an ocean? – No, I **haven’t swum** in an ocean.
+
+#### Examples in Different Forms (Procurement Context):
+**Verb: Meet**
+- **Positive**: I have met several suppliers this year.
+- **Negative**: I haven’t met the new vendor yet.
+- **Interrogative**: Have you ever met an international client?
+- **WH-Question**: Who have you met at industry events?
+
+**Situation**: Use this to discuss your experiences in procurement, e.g., during a performance review.
+
+---
+
+### Practical Application in Procurement
+- **Past Continuous + Simple Past**: "I was negotiating with a supplier when the client called." (Describe interruptions during work.)
+- **Past Continuous (Simultaneous)**: "I was reviewing contracts while my team was preparing the budget." (Show multitasking.)
+- **Present Perfect**: "I have visited three supplier factories this year." (Share experiences relevant to your role.)
+
+#### Connection to Travel Vocabulary ("04-28 U-6 K.P 6.1.pdf"):
+- **Past Continuous + Simple Past**: "I was checking in at the desk when the security alarm went off."
+- **Present Perfect**: "I have passed through passport control many times."
+
+---
+
+### Tips for Hindi Speakers
+- **Hindi Influence (Past Continuous)**: Hindi uses a similar structure for ongoing actions (e.g., "मैं काम कर रहा था" /main kaam kar raha tha/ = "I was working"), but English requires "was/were + -ing." Avoid dropping "was/were" (e.g., wrong: "I working").
+- **Hindi Influence (Present Perfect)**: Hindi often uses past tense for experiences (e.g., "मैंने झींगे खाए" /mainne jhinge khaye/ = "I ate prawns"). Use "have/has + past participle" in English: "I have eaten prawns."
+- **Word Order**: Hindi uses Subject-Object-Verb (e.g., "मैं किताब पढ़ रहा था" = "I book reading was"). English uses Subject-Verb-Object: "I was reading a book."
+- **Pronunciation**: Practice Past Continuous forms (e.g., "was working" /wəz ˈwɜːrkɪŋ/) and Present Perfect contractions (e.g., "I’ve" /aɪv/) to sound natural.
+
+---
+
+### Practice Exercise
+1. Write 5 sentences using Past Continuous + Simple Past about your work:
+   - Example: I was writing a report when the supplier emailed me.
+2. Write 5 sentences using Past Continuous (simultaneous actions) about your day:
+   - Example: I was attending a meeting while my colleague was taking notes.
+3. Answer 3 Present Perfect questions with your own experiences:
+   - Example: Have you ever gone abroad? – No, I haven’t gone abroad.
+
+Would you like to try this exercise, or should I provide a mock conversation using these tenses for your speaking practice?

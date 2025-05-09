@@ -58,5 +58,10 @@
     1. [L11 Past Continuous](./class/04-23-01%20Lesson%2011%20past_continuous.pdf)
     2. [Ws Past Continuous](./class/04-23-02%20past_continuous_ws.jpg)
     3. [Discuss When The Accident Happend](./class/04-23-03%20when_happened.jpg)
-    4. [KP - 4.3 Talking about memories](./class/04-23-04%20U-4%20K.P%204.3.pdf)
-    5. [Notes - Past_Continuous](./notes/04-23-01%20Past_Continuous.md)
+    4. [Notes - Past_Continuous](./notes/04-23-01%20past_continuous.md)
+
+- 04-24 Talking about memories
+    1. [L12 what were use](./class/04-24-01%20Lesson%2012%20what_were.pdf)
+    2. [L13 Past Continuous WS](./class/04-24-02%20Lesson%2013%20past_continuous.pdf)
+    3. [KP - 4.3 Talking about memories](./class/04-24-03%20U-4%20K.P%204.3.pdf)
+    4. [Notes - Past_Continuous](./notes/04-24-01%20past_continuous_memories.md)
