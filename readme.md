@@ -89,3 +89,12 @@
     4. [Rev Past Continuous](./class/05-01-03%20past%20contineous.jpg)
     5. [Rev Present Perfect](./class/05-01-04%20perfect%20card.jpg)
     6. [Notes - Revision](./notes/05-01-02%20revision.md)
+
+### Week 5 Future Tense
+- 05-05 arragements
+    1. [KP 7.1_making arrangements](./class/05-05-01%20U-7%20K.P%207.1.pdf)
+    2. [KP 7.2_Describing arrangements](./class/05-05-02%20U-7%20K.P%207.2.pdf)
+    3. [L17 Structure arrangements](./class/05-05-03%20Lesson%2017_H.W.pdf)
+    4. [Notes - Arrangements](./notes/05-05-01%20arrangements.md)
+
+- 05-06 
