@@ -53,3 +53,10 @@
     1. [KP - 4.1_Discussing news stories](./class/04-22-01%20U-4%20K.P%204.1.pdf)
     2. [KP - 4.2_Discussing recent events](./class/04-22-02%20U-4%20K.P%204.2.pdf)
     3. [Notes - Vocab Situational](./notes/04-22-01%20Vocab-Situational.md)
+
+- 04-23 Past Continuous Tense
+    1. [L11 Past Continuous](./class/04-23-01%20Lesson%2011%20past_continuous.pdf)
+    2. [Ws Past Continuous](./class/04-23-02%20past_continuous_ws.jpg)
+    3. [Discuss When The Accident Happend](./class/04-23-03%20when_happened.jpg)
+    4. [KP - 4.3 Talking about memories](./class/04-23-04%20U-4%20K.P%204.3.pdf)
+    5. [Notes - Past_Continuous](./notes/04-23-01%20Past_Continuous.md)
