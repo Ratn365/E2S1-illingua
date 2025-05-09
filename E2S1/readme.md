@@ -1,4 +1,37 @@
-# Table of Content
+# E2S1
+## Syllabus
+- [x] Talk about general and long term present situations 
+- [x] Talk about short term present situations ( Present perfect) 
+- [x] Discuss usual and specific situations 
+- [x] Discuss biographical situations 
+- [x] Discuss past experiences in detail 
+- [x] Talk about goals they have and have not achieved. 
+- [x] Discuss recent events. 
+- [x] Sum up recent events 
+- [x] Understand and discuss news topics 
+- [x] Refer to memories. 
+- [x] Discuss uses and purposes. 
+- [x] Explain reasons 
+- [x] Understand and talk about common technical jargon. 
+- [x] Use appropriate language in everyday mails. 
+- [x] Discuss travel procedures. 
+- [x] Describe plans and make future arrangements. 
+- [x] Refer to future with different degrees of certainty. 
+- [x] Describe climatic conditions. 
+- [x] Make weather forecasts. 
+- [x] Talk about the advantages and disadvantages of things. 
+- [x] Make detailed comparisons. 
+- [x] Talk about transactions, purchases and refunds. 
+- [ ] Talk about leisure activities and interests. 
+- [ ] Talk about preferences. 
+- [ ] Make recommendations. 
+- [ ] Discuss hypothetical situations. 
+- [ ] Explain rules 
+- [ ] Discuss food and recipes 
+- [ ] Refer to materials. 
+- [ ] Refer to common minor injuries.
+
+## Table of Content
 
 ### Week 1
 - 04-09 Simple Present Tense -do/does
