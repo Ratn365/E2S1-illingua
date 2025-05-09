@@ -103,3 +103,9 @@
     3. [Discuss Future](./class/05-06-03%20Discuss%20future.jpg)
     4. [KP 7.3_Discussing Plans and Decisions](./class/05-06-04%20U-7%20K.P%207.3.pdf)
     5. [Notes - Future](./notes/05-06-01%20taking%20future.md)
+
+- 05-07 Predictive Future Tense
+    1. [KP 8.1_Discussing predictions](./class/05-07-01%20U-8%20K.P%208.1.pdf)
+    2. [KP 8.2_Describing the weather](./class/05-07-02%20U-8%20K.P%208.2.pdf)
+    3. [Notes Predictions](./notes/05-07-01%20Predictions.md)
+    
