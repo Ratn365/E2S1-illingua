@@ -20,4 +20,15 @@
     2. [Discuss What Happens](./class/04-14-01%20what_happens.jpg)
     3. [Discuss What Happens](./class/04-14-02%20what_happens.pdf)
 
-- 04-15 
+- 04-15 was Were
+    1. [Was Were](./class/04-15-01%20was_were%20.pdf)
+    2. [Discuss Was Were](./class/04-15-02%20was_were.jpg)
+    3. [KP 2.1_Talking about events in life](./class/04-15-03%20U-2%20KP%202.1.pdf)
+    4. [KP 2.2_Discussing past events](./class/04-15-04%20U-2%20KP%202.2.pdf)
+    5. [Notes - Simple_Past](./notes/04-15-01%20SimplePast.md)
+  
+- 04-16 Simple Past Tense
+    1. [Simple Past](./class/04-16-01%20SimplePast.pdf)
+    2. [Discuss Simple Past](./class/04-16-02%20simple_past.jpg)
+    3. [Notes - Simple_Past](./notes/04-16-01%20SimplePast.md)
+
