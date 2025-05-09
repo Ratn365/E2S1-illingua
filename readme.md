@@ -69,8 +69,8 @@
 ### Week 4 Vocab
 - 04-28 Purpose and Reason
     1. [KP 5.1_ Discussing purposes and reason](./class/04-28-01%20U-5%20K.P%205.1.pdf)
-    2. [Notes - Vocab Purpose](./notes/04-28%20Vocab-purpose_reason.md)
+    2. [Notes - Vocab Purpose](./notes/04-28-01%20Vocab-purpose_reason.md)
 
 - 04-29 Vocab - Travel Procedure
     1. [KP 6.1_Discussing Travel Procedure](./class/04-29-01%20U-6%20K.P%206.1.pdf)
-    2. [Notes - Vocab Travel](./notes/04-29%20Vocab-Travel.md)
+    2. [Notes - Vocab Travel](./notes/04-29-01%20Vocab-Travel.md)
