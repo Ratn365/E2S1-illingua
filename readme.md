@@ -81,3 +81,11 @@
     3. [L14 Frequency](./class/04-30-03%20Lesson%2014_H.W.pdf)
     4. [L16 Frequency WB](./class/04-30-04%20Lesson%2016_H.W.pdf)
     5. [Notes - Vocab Frequency](./notes/04-30-01%20Vocab-Frequencies.md)
+
+- 05-01 Vocab - Travels and Revision
+    1. [KP 6.3_Talking about travel problems](./class/05-01-01%20U-6%20K.P%206.3.pdf)
+    2. [Notes - Vocab Travel](./notes/05-01-01%20Vocab-travel%20Proble.md)
+    3. [Rev Simple Past](./class/05-01-02%20simple%20past.jpg)
+    4. [Rev Past Continuous](./class/05-01-03%20past%20contineous.jpg)
+    5. [Rev Present Perfect](./class/05-01-04%20perfect%20card.jpg)
+    6. [Notes - Revision](./notes/05-01-02%20revision.md)
