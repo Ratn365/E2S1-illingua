@@ -22,7 +22,7 @@
 - [x] Talk about the advantages and disadvantages of things. 
 - [x] Make detailed comparisons. 
 - [x] Talk about transactions, purchases and refunds. 
-- [ ] Talk about leisure activities and interests. 
+- [x] Talk about leisure activities and interests. 
 - [ ] Talk about preferences. 
 - [ ] Make recommendations. 
 - [ ] Discuss hypothetical situations. 
@@ -146,5 +146,14 @@
     1. [KP 9.1_Talking about purchasing](./class/05-08-01%20U-9%20K.P%209.1.pdf)
     2. [KP 9.2_Talking about purchasing](./class/05-08-02%20U-9%20K.P%209.2.pdf)
     3. [KP 9.3_Making comparisons](./class/05-08-03%20U-9%20K.P%209.3.pdf)
-    4. [Notes Purchasing](./notes/05-08-01%20Purchasing.md)
+    4. [L20 Compartive Excersise](./class/05-08-05%20Lesson%2020_H.W.pdf)
+    5. [compartive](./class/05-08-04%20Compartive.jpg)
+    6. [Notes Purchasing](./notes/05-08-01%20Purchasing.md)
     
+- 05-12 Talk leisure activities and interests. 
+    1. [KP 10.1_Talking about leisure](./class/05-12-01%20U-10%20K.P%2010.1.pdf)
+    2. [KP 10.2_Discussing likes and dislikes](./class/05-12-02%20U-10%20K.P%2010.2.pdf)
+    3. [KP 10.3_Discussing feelings about experience](./class/05-12-03%20U-10%20K.P%2010.3.pdf)
+    4. [Activity ](./class/05-12-04%20activity.jpg)
+    5. [Discussion Card](./class/05-12-05%20discussion%20card.jpg)
+    6. [Notes Leisure](./notes/05-12-01%20Leisure.md)
