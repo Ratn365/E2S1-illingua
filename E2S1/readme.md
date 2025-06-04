@@ -201,5 +201,12 @@
 
 - 05-22 clothing
     1. [KP 15.2_Describing clothing](./class/05-22-01%20U-15%20K.P%2015.2.pdf)
-    2. [KP Clothing Quiz](./class/05-22-02%20clothing%20Quiz.jpg)
+    2. [Clothing Quiz](./class/05-22-02%20clothing%20Quiz.jpg)
     3. [Notes Clothing](./notes/05-22-01%20Clothing.md)
+
+- 05-23 Safety
+    1. [KP 15.3_Discussing safety issues ](./class/05-23-01%20U-15%20K.P%2015.3.pdf)
+    2. [reflexive pronoun](./class/05-23-02%20reflexive%20pronoun.jpg)
+    3. [Notes Safety issues](./notes/05-23-01%20Safety.md)
+
+### Week 8
