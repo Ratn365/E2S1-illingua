@@ -176,3 +176,12 @@
     1. [what if](./class/05-15-01%20%20what%20if.jpg)
     2. [Active Passive Voice](./class/05-15-02%20E2S1_Lesson%2023_H.W.pdf)
     3. [Notes preferences](./notes/05-15-01%20voice.md)
+
+### Week 7
+
+- 05-19 Discuss Cars rules and movements
+    1. [KP 13.1_Talking about cars](./class/05-19-01%20U-13%20K.P%2013.1.pdf)
+    2. [KP 13.2_Explaining Rules](./class/05-19-02%20U-13%20K.P%2013.2.pdf)
+    3. [KP 13.3_Discussing rental arrangements](./class/05-19-03%20U-13%20K.P%2013.3.pdf)
+    4. [Place @movement](./class/05-19-04%20place_movement.jpg)
+    5. [Notes Cars](./notes/05-19-01%20cars.md)
