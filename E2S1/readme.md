@@ -165,3 +165,9 @@
     2. [KP 11.2_Giving advice](./class/05-13-02%20U-11%20K.P%2011.2.pdf)
     3. [KP 11.3_Discussing imaginary scenarios ](./class/05-13-03%20U-11%20K.P%2011.3.pdf)
     4. [Notes leisure activities and interests](./notes/05-13-01%20leisure%20interests.md)
+
+- 05-14 Talk about preferences.
+    1. [KP 12.1_Discussing the natural environment](./class/05-14-01%20U-12%20K.P%2012.1.pdf)
+    2. [KP 12.2_Describing systems](./class/05-14-02%20U-12%20K.P%2012.2.pdf)
+    3. [KP 12.3_Describing position and movement](./class/05-14-03%20U-12%20K.P%2012.3.pdf)
+    4. [Notes preferences](./notes/05-14-01%20preferences.md)
