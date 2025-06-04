@@ -149,7 +149,9 @@
     4. [L20 Compartive Excersise](./class/05-08-05%20Lesson%2020_H.W.pdf)
     5. [compartive](./class/05-08-04%20Compartive.jpg)
     6. [Notes Purchasing](./notes/05-08-01%20Purchasing.md)
-    
+
+### Week 6
+
 - 05-12 Talk leisure activities and interests. 
     1. [KP 10.1_Talking about leisure](./class/05-12-01%20U-10%20K.P%2010.1.pdf)
     2. [KP 10.2_Discussing likes and dislikes](./class/05-12-02%20U-10%20K.P%2010.2.pdf)
@@ -157,3 +159,9 @@
     4. [Activity ](./class/05-12-04%20activity.jpg)
     5. [Discussion Card](./class/05-12-05%20discussion%20card.jpg)
     6. [Notes Leisure](./notes/05-12-01%20Leisure.md)
+
+- 05-13 Talk about leisure activities and interests
+    1. [KP 11.1_Talking about time](./class/05-13-01%20U-11%20K.P%2011.1.pdf)
+    2. [KP 11.2_Giving advice](./class/05-13-02%20U-11%20K.P%2011.2.pdf)
+    3. [KP 11.3_Discussing imaginary scenarios ](./class/05-13-03%20U-11%20K.P%2011.3.pdf)
+    4. [Notes leisure activities and interests](./notes/05-13-01%20leisure%20interests.md)
