@@ -192,3 +192,9 @@
     3. [KP 14.3_Discussing the Cooking method](./class/05-20-03%20U-14%20K.P%2014.3.pdf)
     4. [ Discribe Organic](./class/05-20-04%20Decribe%20Organic.jpg)
     5. [Notes Food& Drink](./notes/05-19-01%20FoodsDrink.md)
+
+- 05-21 Discribe relatively
+    1. [KP 15.1_ Describing things relatively](./class/05-21-01%20U-15%20K.P%2015.1.pdf)
+    2. [Describe Likes](./class/05-21-02%20describe%20likes.jpg)
+    3. [Discribe dislikes](./class/05-21-03%20discuss%20likes.jpg)
+    4. [Notes Relative](./notes/05-21-01%20Relatively.md)
