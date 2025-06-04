@@ -210,3 +210,9 @@
     3. [Notes Safety issues](./notes/05-23-01%20Safety.md)
 
 ### Week 8
+
+- 05-27 Projects
+    1. [PPT food recipie](./class/05-27-01%20Masala_Poha_With_Images_Tools%20(1).pptx)
+    2. [Simple past](./class/05-27-02%20pastsimple.jpg)
+    3. [Past Continues](./class/05-27-03%20pastcontinues.jpg)
+
