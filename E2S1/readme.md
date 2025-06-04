@@ -198,3 +198,8 @@
     2. [Describe Likes](./class/05-21-02%20describe%20likes.jpg)
     3. [Discribe dislikes](./class/05-21-03%20discuss%20likes.jpg)
     4. [Notes Relative](./notes/05-21-01%20Relatively.md)
+
+- 05-22 clothing
+    1. [KP 15.2_Describing clothing](./class/05-22-01%20U-15%20K.P%2015.2.pdf)
+    2. [KP Clothing Quiz](./class/05-22-02%20clothing%20Quiz.jpg)
+    3. [Notes Clothing](./notes/05-22-01%20Clothing.md)
